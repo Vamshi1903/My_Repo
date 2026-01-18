@@ -1,3 +1,5 @@
+Hi Everyone , this File is regarindg to the Shell
+
 SHELL: is an environment in which we can run our commands, programs, and shell scripts. It gathers input from you and executes programs based on that input. When a program finish executing, it displays that program's output.
 
 A shell is a program that serves as an interface between the user and the operating system. It provides a way for users to interact with the computer by accepting commands and then executing them.
