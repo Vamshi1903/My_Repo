@@ -1,0 +1,11 @@
+SHELL: is an environment in which we can run our commands, programs, and shell scripts. It gathers input from you and executes programs based on that input. When a program finish executing, it displays that program's output.
+
+A shell is a program that serves as an interface between the user and the operating system. It provides a way for users to interact with the computer by accepting commands and then executing them.
+
+Shells can be graphical (GUI-based), where users interact with the computer through windows, icons, and buttons, or they can be command-line-based, where users type text commands into a terminal.
+
+COMMAND: A command is a specific instruction or request given to a computer's operating system or shell. It tells the computer to perform a particular action or task.
+
+TERMINAL: A terminal, also known as a command-line interface (CLI), shell, or console, is a text-based interface for interacting with a computer's operating system. It provides a way for users to enter commands and receive text-based output.
+
+Terminals are commonly used in Unix-based and Linux operating systems, but they also exist in Windows (Command Prompt or PowerShell) and macOS.
